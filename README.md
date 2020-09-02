@@ -1,3 +1,3 @@
-# Blockhain-Distributed-Streaming-API
+# Blockchain-Distributed-Streaming-API
 
 Streaming API 
